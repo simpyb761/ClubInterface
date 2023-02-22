@@ -1,0 +1,15 @@
+C:\Users\simpy\OneDrive\Documents\GitHub\ClubInterface\ClubInterface\ClubInterface\bin\Debug\net6.0\ClubInterface.exe
+C:\Users\simpy\OneDrive\Documents\GitHub\ClubInterface\ClubInterface\ClubInterface\bin\Debug\net6.0\ClubInterface.deps.json
+C:\Users\simpy\OneDrive\Documents\GitHub\ClubInterface\ClubInterface\ClubInterface\bin\Debug\net6.0\ClubInterface.runtimeconfig.json
+C:\Users\simpy\OneDrive\Documents\GitHub\ClubInterface\ClubInterface\ClubInterface\bin\Debug\net6.0\ClubInterface.dll
+C:\Users\simpy\OneDrive\Documents\GitHub\ClubInterface\ClubInterface\ClubInterface\bin\Debug\net6.0\ClubInterface.pdb
+C:\Users\simpy\OneDrive\Documents\GitHub\ClubInterface\ClubInterface\ClubInterface\obj\Debug\net6.0\ClubInterface.csproj.AssemblyReference.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\ClubInterface\ClubInterface\ClubInterface\obj\Debug\net6.0\ClubInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simpy\OneDrive\Documents\GitHub\ClubInterface\ClubInterface\ClubInterface\obj\Debug\net6.0\ClubInterface.AssemblyInfoInputs.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\ClubInterface\ClubInterface\ClubInterface\obj\Debug\net6.0\ClubInterface.AssemblyInfo.cs
+C:\Users\simpy\OneDrive\Documents\GitHub\ClubInterface\ClubInterface\ClubInterface\obj\Debug\net6.0\ClubInterface.csproj.CoreCompileInputs.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\ClubInterface\ClubInterface\ClubInterface\obj\Debug\net6.0\ClubInterface.dll
+C:\Users\simpy\OneDrive\Documents\GitHub\ClubInterface\ClubInterface\ClubInterface\obj\Debug\net6.0\refint\ClubInterface.dll
+C:\Users\simpy\OneDrive\Documents\GitHub\ClubInterface\ClubInterface\ClubInterface\obj\Debug\net6.0\ClubInterface.pdb
+C:\Users\simpy\OneDrive\Documents\GitHub\ClubInterface\ClubInterface\ClubInterface\obj\Debug\net6.0\ClubInterface.genruntimeconfig.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\ClubInterface\ClubInterface\ClubInterface\obj\Debug\net6.0\ref\ClubInterface.dll
